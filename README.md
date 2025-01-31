@@ -14,6 +14,6 @@ And Python is versatile and powerful to handle data processing, system administr
 
 ## Projects
 
-I have been following the [DevOps Roadmap](https://roadmap.sh/devops) from [roadmaps.sh](https://roadmaps.sh) to master the ocean of Tools, Techniques and more.
+I have been following the [DevOps Roadmap](https://roadmap.sh/devops) from [roadmap.sh](https://roadmap.sh) to master the ocean of Tools, Techniques and more.
 
 To gain more inclined hands-on into DevOps, once can take look at the Projects and I took the chance to get my hands dirty with them. You can find my ideas implemented [here](https://github.com/abhinavbharadwajr/learn.devops/tree/master/roadmap-projects).

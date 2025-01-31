@@ -22,4 +22,4 @@
 20. Multi-Service Application
 21. Service Discovery
 
-All project can be found at [roadmaps.sh/devops/projects](https://roadmap.sh/devops/projects)
+All project can be found at [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
